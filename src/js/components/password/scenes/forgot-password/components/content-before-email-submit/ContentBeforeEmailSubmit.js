@@ -7,6 +7,9 @@ import Input from '../../../../../shared/input'
 import Button from '../../../../../shared/button'
 
 const StyledContent = styled.div`
+   > p {
+     text-align: center;
+   }
   .ui.form {
     margin: 60px;
     
